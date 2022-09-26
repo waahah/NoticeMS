@@ -1,2 +1,2 @@
-# NoticeMS
-Bulletin management system
+## *NoticeMS*
+*An announcement management system that demonstrates the difference between object-oriented and process-oriented*
